@@ -1,0 +1,16 @@
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.deps.json
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.dll
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.AssemblyReference.cache
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfoInputs.cache
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.AssemblyInfo.cs
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.csproj.CoreCompileInputs.cache
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.sourcelink.json
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.De.3B55B412.Up2Date
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Domain.dll
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+D:\_DO_GIT\_____code-challenges\CIT_AMBEV\abi-gth-omnia-developer-evaluation\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Domain.dll
